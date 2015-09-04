@@ -1,0 +1,36 @@
+{
+  "name": "avn-nodebrew",
+  "version": "0.1.0",
+  "description": "avn plugin for nodebrew",
+  "homepage": "https://github.com/kuy/avn-nodebrew",
+  "bugs": {
+    "url": "https://github.com/kuy/avn-nodebrew/issues"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kuy/avn-nodebrew.git"
+  },
+  "keywords": [
+    "avn",
+    "node",
+    "nodebrew",
+    "version",
+    "switch",
+    "automatic",
+    "cd",
+    "change",
+    "directory"
+  ],
+  "author": "Yuki Kodama",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "semver": "^5.0.1"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "avn": "0.2.x"
+  }
+}
